@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>360_F_276925989_IKm7vADWuqKwIiNhPofdud2loR6p3PyB.jpg</file>
+    <file>ig.jpeg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>twitter.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>fc.png</file>
+  </qresource>
+</RCC>
